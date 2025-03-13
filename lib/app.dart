@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_tiktok/config/app_theme.dart';
+import 'package:flutter_tiktok/config/themes/app_theme.dart';
 import 'package:flutter_tiktok/presentation/providers/discover_provider.dart';
 import 'package:flutter_tiktok/presentation/screens/discover/discover_screen.dart';
 import 'package:provider/provider.dart';
