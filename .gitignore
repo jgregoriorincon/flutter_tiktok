@@ -158,3 +158,15 @@ app.*.symbols
 .python-version
 .gclient_previous_custom_vars
 .gclient_previous_sync_commits
+
+# videos and screenshots
+*.mp4
+*.webm
+*.avi
+*.mkv
+*.flv
+*.vob
+*.ogv
+*.ogg
+*.drc
+*.gif
